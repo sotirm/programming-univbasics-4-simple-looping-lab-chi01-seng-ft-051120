@@ -2,6 +2,7 @@
 
 
 def loop_message_five_times(a_string)
-  while 
+  counter = 0 
+  while counter <= 5
   
 end
