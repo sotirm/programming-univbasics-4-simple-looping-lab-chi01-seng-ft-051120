@@ -7,5 +7,28 @@ def loop_message_five_times(a_string)
     puts a_string
     counter = counter + 1
   end
-  
 end
+
+
+def loop_message_n_times(a_string, a_int)
+  counter = 0
+  while counter <= a_int do 
+    puts a_string
+
+  end
+end
+
+
+def output_array(a_arr)
+  counter = 0
+  while counter <= a_arr.length do
+    
+  end
+end
+
+
+
+
+
+
+
