@@ -2,6 +2,6 @@
 
 
 def loop_message_five_times(a_string)
-  for 
+  while 
   
 end
