@@ -14,7 +14,7 @@ def loop_message_n_times(a_string, a_int)
   counter = 0
   while counter <= a_int do 
     puts a_string
-
+    counter = counter + 1
   end
 end
 
@@ -22,10 +22,20 @@ end
 def output_array(a_arr)
   counter = 0
   while counter <= a_arr.length do
-    
+    puts a_arr[counter]
+    counter = counter + 1
   end
 end
 
+
+def return_string_array(a_arr)
+  counter = 0
+  new_arr = []
+  while counter <= a_arr.length do 
+    
+  
+  end
+end
 
 
 
